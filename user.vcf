@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Cruz;Ramses;;;
+FN: Ramses Paul Cruz Robles
+ORG:DevoLabs;
+TITLE:Operations
+EMAIL;type=INTERNET;type=WORK;type=pref:rcruz@devolabs.io
+TEL;type=WORK;type=VOICE:+52 9841752868
+item1.ADR;type=WORK;type=pref:;;Playa del Carmen\Quintana Roo\;México
+item1.X-ABADR:sg
+item2.URL;type=pref:https://www.devolabs.io
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
